@@ -50,7 +50,11 @@ DETECT → DIAGNOSE → DECIDE → POLICY CHECK → ACT → VERIFY → LOG
 <img width="1584" height="2099" alt="Screenshot_30-8-2026_154921_localhost" src="https://github.com/user-attachments/assets/59ff69d8-fbe4-4ec2-861b-ba6f89510139" />
 <img width="1699" height="753" alt="Screenshot_30-8-2026_154935_localhost" src="https://github.com/user-attachments/assets/a89d9320-4fca-45a8-9195-cc400f9ea34c" />
 <img width="1688" height="906" alt="Screenshot_30-8-2026_154953_localhost" src="https://github.com/user-attachments/assets/c878df38-ed79-4772-80d1-ace4fc8e6f32" />
-<img width="1688" height="906" alt="Screenshot_30-8-2026_154953_localhost" src="https://github.com/user-attachments/assets/2f02c69c-4e4c-4e1a-ab18-c6370a9d4fae" />
+<img width="1693" height="4082" alt="Screenshot_30-8-2026_15504_localhost" src="https://github.com/user-attachments/assets/bf522b3c-718b-4f36-982f-19e84d949c8e" />
+<img width="1707" height="1340" alt="Screenshot_30-8-2026_155019_localhost" src="https://github.com/user-attachments/assets/67025046-c39c-4271-b4fd-a1d5d8e50691" />
+
+
+
 
 
 
