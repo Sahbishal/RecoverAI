@@ -1,4 +1,6 @@
 # RecoverAI 🚀
+![Uploading Screenshot_30-8-2026_154852_localhost.jpeg…]()
+
 **Track 03 — AI Revenue Recovery | Razorpay AI Buildathon**
 
 > *"An autonomous AI agent that detects, diagnoses, and recovers merchant revenue lost through failed payments, checkout abandonment, and payment degradation."*
