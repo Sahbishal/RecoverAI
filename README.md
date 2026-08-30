@@ -48,6 +48,11 @@ DETECT → DIAGNOSE → DECIDE → POLICY CHECK → ACT → VERIFY → LOG
 
 ## 🔥 Key Features & Capabilities
 <img width="1584" height="2099" alt="Screenshot_30-8-2026_154921_localhost" src="https://github.com/user-attachments/assets/59ff69d8-fbe4-4ec2-861b-ba6f89510139" />
+<img width="1699" height="753" alt="Screenshot_30-8-2026_154935_localhost" src="https://github.com/user-attachments/assets/a89d9320-4fca-45a8-9195-cc400f9ea34c" />
+<img width="1688" height="906" alt="Screenshot_30-8-2026_154953_localhost" src="https://github.com/user-attachments/assets/c878df38-ed79-4772-80d1-ace4fc8e6f32" />
+<img width="1688" height="906" alt="Screenshot_30-8-2026_154953_localhost" src="https://github.com/user-attachments/assets/2f02c69c-4e4c-4e1a-ab18-c6370a9d4fae" />
+
+
 
 
 
