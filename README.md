@@ -1,4 +1,4 @@
-# RecoverAI 🚀
+<img width="1703" height="675" alt="Screenshot_30-8-2026_155025_localhost" src="https://github.com/user-attachments/assets/6961fd1f-5d7e-480b-a4f8-506afd047dce" /># RecoverAI 🚀
 <img width="1610" height="1639" alt="Screenshot_30-8-2026_154852_localhost" src="https://github.com/user-attachments/assets/0df1c659-a0c1-4d69-9e47-26cd1595a95a" />
 
 
@@ -52,7 +52,9 @@ DETECT → DIAGNOSE → DECIDE → POLICY CHECK → ACT → VERIFY → LOG
 <img width="1688" height="906" alt="Screenshot_30-8-2026_154953_localhost" src="https://github.com/user-attachments/assets/c878df38-ed79-4772-80d1-ace4fc8e6f32" />
 <img width="1693" height="4082" alt="Screenshot_30-8-2026_15504_localhost" src="https://github.com/user-attachments/assets/bf522b3c-718b-4f36-982f-19e84d949c8e" />
 <img width="1707" height="1340" alt="Screenshot_30-8-2026_155019_localhost" src="https://github.com/user-attachments/assets/e71c4efe-2cfe-4546-9e8e-e34498b0c563" />
-<img width="1703" height="675" alt="Screenshot_30-8-2026_155025_localhost" src="https://github.com/user-attachments/assets/806725ba-08df-4291-8017-42cae3f2742f" />
+<img width="1703" height="675" alt="Screenshot_30-8-2026_155025_localhost" src="https://github.com/user-attachments/assets/01797dfc-cee6-4898-8d67-7e3835e5d6c7" />
+
+
 
 
 
