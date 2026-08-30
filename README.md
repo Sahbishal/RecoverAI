@@ -6,6 +6,8 @@
 > *"An autonomous AI agent that detects, diagnoses, and recovers merchant revenue lost through failed payments, checkout abandonment, and payment degradation."*
 
 ---
+![Uploading Screenshot_30-8-2026_154921_localhost.jpeg…]()
+
 
 ## 📌 Executive Summary & Problem Statement
 
@@ -113,48 +115,4 @@ Run the automated test suite covering all 10 scenario cases, policy checks, webh
 ```bash
 cd backend
 python -m pytest tests/test_policy_and_recovery.py
-```
 
----
-
-## 🎬 5-Minute Hackathon Demo Script & Scenario Story
-
-To demonstrate **RecoverAI** during judging, open the **Simulation Lab** tab and run the following 4 key scenarios:
-
-### 1️⃣ CASE 1: Temporary Network Failure (Auto Retry Recovery)
-- **Scenario**: Customer Rahul attempts ₹2,499 payment via UPI. Bank returns temporary network error.
-- **AI Action**: Diagnoses transient issue (87% recovery probability) -> Policy check passes -> Initiates automatic retry.
-- **Result**: ₹2,499 recovered! Dashboard updates dynamically.
-
-### 2️⃣ CASE 2: Checkout Abandonment (Razorpay Payment Link)
-- **Scenario**: Customer Priya abandons a ₹4,999 checkout after 45 seconds.
-- **AI Action**: Detects high purchase intent -> Generates Razorpay Payment Link -> Customer completes payment.
-- **Result**: ₹4,999 recovered via Payment Link.
-
-### 3️⃣ CASE 3: High-Value Transaction (Bounded Policy Block)
-- **Scenario**: Customer Aman attempts ₹25,000 transaction failure.
-- **AI Action**: AI recommends recovery link, but **Policy Engine blocks automatic execution** because amount exceeds ₹10,000 threshold.
-- **Result**: Case routed to **Human Approval Queue**. Merchant clicks `Approve Recovery` to execute bounded action.
-
-### 4️⃣ CASE 4: Duplicate Webhook / Payment Already Succeeded (Idempotency)
-- **Scenario**: Duplicate Razorpay webhook arrives for an already recovered payment.
-- **System Action**: Idempotency guard detects duplicate event, halts redundant execution, and logs `"Duplicate event ignored"`.
-
----
-
-## 🔌 API Reference Highlights
-
-- `GET /api/dashboard/metrics`: Returns dynamic metrics (Revenue at Risk, Recovered, Rate, Active Cases).
-- `GET /api/recovery`: List all recovery cases with status and risk filters.
-- `POST /api/recovery/:id/approve`: Merchant approval trigger.
-- `POST /api/simulation/trigger`: Execute simulation scenario.
-- `POST /api/webhooks/razorpay`: Razorpay HMAC verified webhook endpoint.
-- `GET /api/settings/ml-metrics`: Returns Scikit-Learn model evaluation metrics.
-
----
-
-## 🛡️ Security & Judging Verification
-
-- No hardcoded secrets. Environment variables configured via `.env.example`.
-- HMAC SHA-256 Webhook signature validation implemented.
-- Database state dynamically calculates all dashboard KPI cards (Zero fake hardcoded numbers).
