@@ -1,5 +1,4 @@
 # RecoverAI 🚀
-![Uploading Screenshot_30-8-2026_154852_localhost.jpeg…]()
 
 **Track 03 — AI Revenue Recovery | Razorpay AI Buildathon**
 
