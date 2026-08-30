@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.db
+*.joblib
+*.csv
+node_modules/
+dist/
