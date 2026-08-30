@@ -2,7 +2,6 @@
 <img width="1610" height="1639" alt="Screenshot_30-8-2026_154852_localhost" src="https://github.com/user-attachments/assets/0df1c659-a0c1-4d69-9e47-26cd1595a95a" />
 
 
-**Track 03 — AI Revenue Recovery | Razorpay AI Buildathon**
 
 > *"An autonomous AI agent that detects, diagnoses, and recovers merchant revenue lost through failed payments, checkout abandonment, and payment degradation."*
 
@@ -48,6 +47,9 @@ DETECT → DIAGNOSE → DECIDE → POLICY CHECK → ACT → VERIFY → LOG
 ---
 
 ## 🔥 Key Features & Capabilities
+<img width="1703" height="675" alt="Screenshot_30-8-2026_155025_localhost" src="https://github.com/user-attachments/assets/83c9cf1c-28c8-43a7-b6cc-3d80e22e30a9" />
+
+
 
 1. **Autonomous Tool-Calling AI Agent**:
    Executes structured tool reasoning (`get_transaction`, `get_customer_history`, `analyze_failure`, `calculate_recovery_probability`, `check_recovery_policy`, `retry_payment`, `create_payment_link`, `send_recovery_message`, `verify_payment_status`, `escalate_to_human`, `write_audit_log`).
