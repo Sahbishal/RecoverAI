@@ -2,6 +2,8 @@
 <img width="1610" height="1639" alt="Screenshot_30-8-2026_154852_localhost" src="https://github.com/user-attachments/assets/0df1c659-a0c1-4d69-9e47-26cd1595a95a" />
 
 
+![Uploading Screenshot_30-8-2026_154953_localhost.jpeg…]()
+
 
 
 > *"An autonomous AI agent that detects, diagnoses, and recovers merchant revenue lost through failed payments, checkout abandonment, and payment degradation."*
