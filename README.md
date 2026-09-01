@@ -3,6 +3,7 @@
 
 
 
+
 > *"An autonomous AI agent that detects, diagnoses, and recovers merchant revenue lost through failed payments, checkout abandonment, and payment degradation."*
 
 ---
