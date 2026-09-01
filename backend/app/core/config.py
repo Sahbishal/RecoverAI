@@ -25,7 +25,8 @@ class Settings(BaseSettings):
         "DATABASE_URL", "sqlite:///./recover_ai.db"
     )
     
-    # Policy Defaults
+
+  # Policy Defaults
     MAX_AUTOMATIC_RETRIES: int = 2
     MAX_AUTOMATIC_RECOVERY_AMOUNT: float = 10000.0  # ₹10,000 INR
     MAX_DISCOUNT_PERCENT: float = 10.0
