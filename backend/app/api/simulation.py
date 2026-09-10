@@ -10,6 +10,7 @@ import datetime
 
 router = APIRouter(prefix="/simulation", tags=["Simulation"])
 
+
 @router.post("/trigger")
 def trigger_simulation_scenario(req: SimulationRequest, db: Session = Depends(get_db)):
     sim = SimulationEngine(db)
