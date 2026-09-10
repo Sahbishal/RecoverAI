@@ -7,6 +7,7 @@ from app.services.simulation_engine import SimulationEngine
 from app.services.recovery_engine import RecoveryEngine
 import datetime
 
+
 router = APIRouter(prefix="/simulation", tags=["Simulation"])
 
 @router.post("/trigger")
