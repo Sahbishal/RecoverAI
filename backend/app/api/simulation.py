@@ -18,6 +18,7 @@ def trigger_simulation_scenario(req: SimulationRequest, db: Session = Depends(ge
         scenario_type=req.scenario_type,
         custom_name=req.customer_name,
         custom_amount=req.amount
+
         
     )
 
