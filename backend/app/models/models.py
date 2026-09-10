@@ -49,7 +49,7 @@ class Customer(Base):
 
 
 class Payment(Base):
-    __tablename__ = "payments"
+    __tablename__ = " Payments"
 
     id = Column(String, primary_key=True, index=True) # TXN_xxx or pay_xxx
     order_id = Column(String, index=True, nullable=True)
