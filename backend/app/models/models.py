@@ -10,6 +10,7 @@ def utcnow():
 
 class Merchant(Base):
     __tablename__ = "merchants"
+    
 
     id = Column(String, primary_key=True, index=True)
     name = Column(String, nullable=False)
